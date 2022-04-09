@@ -166,47 +166,27 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Alex Qwxlea - [@twitter_handle](https://twitter.com/QwxleaA) 
+Alex Qwxlea - [@QwxleaA](https://twitter.com/QwxleaA) 
 
 Project Link: [https://github.com/Qwxlea/cinematograph](https://github.com/Qwxlea/cinematograph)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[release-url]: (https://github.com/QWxleA/logseq-cinematograph)
+[release-shield]: https://img.shields.io/github/v/release/qwxlea/logseq-cinematograph?style=for-the-badge
 [contributors-shield]: https://img.shields.io/github/contributors/QWxleA/logseq-cinematograph.svg?style=for-the-badge
-[contributors-url]: https://github.com/QWxleA/cinematograph/graphs/contributors
+[contributors-url]: https://github.com/QWxleA/logseq-cinematograph/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/QWxleA/logseq-cinematograph.svg?style=for-the-badge
-[forks-url]: https://github.com/QWxleA/cinematograph/network/members
+[forks-url]: https://github.com/QWxleA/logseq-cinematograph/network/members
 [stars-shield]: https://img.shields.io/github/stars/QWxleA/logseq-cinematograph.svg?style=for-the-badge
-[stars-url]: https://github.com/QWxleA/cinematograph/stargazers
+[stars-url]: https://github.com/QWxleA/logseq-cinematograph/stargazers
 [issues-shield]: https://img.shields.io/github/issues/QWxleA/logseq-cinematograph.svg?style=for-the-badge
-[issues-url]: https://github.com/QWxleA/cinematograph/issues
+[issues-url]: https://github.com/QWxleA/logseq-cinematograph/issues
 [license-shield]: https://img.shields.io/github/license/QWxleA/logseq-cinematograph.svg?style=for-the-badge
-[license-url]: https://github.com/QWxleA/cinematograph/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/QWxleA
-[product-screenshot]: images/screenshot.png
+[license-url]: https://github.com/QWxleA/logseq-cinematograph/blob/master/LICENSE.txt
+[product-screenshot]: images/screenshot.gif
 
 
 ## Using the plugin
