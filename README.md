@@ -22,8 +22,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 
 <!-- PROJECT LOGO -->
@@ -196,18 +194,18 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/logseq-cinematograph.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/QWxleA/logseq-cinematograph.svg?style=for-the-badge
 [contributors-url]: https://github.com/QWxleA/cinematograph/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/logseq-cinematograph.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/QWxleA/logseq-cinematograph.svg?style=for-the-badge
 [forks-url]: https://github.com/QWxleA/cinematograph/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/logseq-cinematograph.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/QWxleA/logseq-cinematograph.svg?style=for-the-badge
 [stars-url]: https://github.com/QWxleA/cinematograph/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/logseq-cinematograph.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/QWxleA/logseq-cinematograph.svg?style=for-the-badge
 [issues-url]: https://github.com/QWxleA/cinematograph/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/logseq-cinematograph.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/QWxleA/logseq-cinematograph.svg?style=for-the-badge
 [license-url]: https://github.com/QWxleA/cinematograph/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://linkedin.com/in/QWxleA
 [product-screenshot]: images/screenshot.png
 
 
