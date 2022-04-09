@@ -1,6 +1,6 @@
 <div id="top"></div>
 <!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** Thanks for checking out the logseq-cinematograph. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
 *** or simply open an issue with the tag "enhancement".
 *** Don't forget to give the project a star!
@@ -29,23 +29,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/QWxleA/Best-README-Template">
+  <a href="https://github.com/QWxleA/logseq-cinematograph">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Logseq Cinematograph</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+Cinematograph or Kinematograph is an early term for several types of motion picture film mechanisms. A device by this name was invented and patented as the "Cinématographe Léon Bouly" by French inventor Léon Bouly on February 12, 1892. Bouly coined the term "cinematograph," from the Greek for **"writing in movement."** — [Cinematograph - Wikipedia](https://en.wikipedia.org/wiki/Cinematograph)
     <br />
-    <a href="https://github.com/QWxleA/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/QWxleA/logseq-cinematograph"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/QWxleA/Best-README-Template">View Demo</a>
+    <a href="https://github.com/QWxleA/logseq-cinematograph">View Demo</a>
     ·
-    <a href="https://github.com/QWxleA/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/QWxleA/logseq-cinematograph/issues">Report Bug</a>
     ·
-    <a href="https://github.com/QWxleA/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/QWxleA/logseq-cinematograph/issues">Request Feature</a>
   </p>
 </div>
 
@@ -95,25 +95,6 @@ Of course, no one template will serve all projects since your needs may be diffe
 Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 
@@ -165,7 +146,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/QWxleA/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/QWxleA/logseq-cinematograph/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -229,16 +210,16 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/QWxleA/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/QWxleA/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/QWxleA/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/QWxleA/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/QWxleA/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/logseq-cinematograph.svg?style=for-the-badge
+[contributors-url]: https://github.com/QWxleA/logseq-cinematograph/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/logseq-cinematograph.svg?style=for-the-badge
+[forks-url]: https://github.com/QWxleA/logseq-cinematograph/network/members
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/logseq-cinematograph.svg?style=for-the-badge
+[stars-url]: https://github.com/QWxleA/logseq-cinematograph/stargazers
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/logseq-cinematograph.svg?style=for-the-badge
+[issues-url]: https://github.com/QWxleA/logseq-cinematograph/issues
+[license-shield]: https://img.shields.io/github/license/othneildrew/logseq-cinematograph.svg?style=for-the-badge
+[license-url]: https://github.com/QWxleA/logseq-cinematograph/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png

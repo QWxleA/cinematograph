@@ -1,5 +1,5 @@
 import '@logseq/libs';
-import { BlockEntity, SettingSchemaDesc } from '@logseq/libs/dist/LSPlugin';
+import { SettingSchemaDesc } from '@logseq/libs/dist/LSPlugin';
 
 const keyDef  = "y y"
 const keyStop = "y s"
@@ -32,6 +32,13 @@ let settingsTemplate: SettingSchemaDesc[] = [
     default: 405,
     title: "Youtube frame height",
     description: "Minimal recommended height is 270 pixels",
+  },
+  {
+    key: "emoji",
+    type: 'string',
+    default: "⏱",
+    title: "Note taking Emoji",
+    description: "Emoji printed when transcribing video",
   }]
 
 async function stopVideo() {
@@ -47,11 +54,7 @@ async function stopVideo() {
 }
 
 async function toggleUI(e) {
-  console.log(`Toggled ${pluginName[1]}`)
-
-  // let elements1 = document.querySelectorAll(`[id^="youtube"]`);
-  // let elements1 = document.getElementById(`[id^="youtube"]`);
-  // let elements1 = parent.document.getElementById('iframe')
+  // enable view
   const elements1 = Array.from(parent.document.getElementsByTagName("iframe"))
   let element2 = elements1[0].closest(".block-content-wrapper").closest(".block-children .w-full")
   element2.classList.toggle("ytcomment");
@@ -64,24 +67,30 @@ async function toggleUI(e) {
     .ytcomment .block-children-container .block-children>.ls-block
     {
       display: none !important;
-      transition: .3s ease;  
+      transition: .4s ease;  
     }
     
     .ytcomment .block-children>.ls-block:last-child {
       display: contents !important;
-      transition: .3s ease;  
+      transition: .4s ease;  
+    }
+        
+    .ytcomment {
+      background-color: var(--ls-secondary-background-color);
     }
     
-    .ytcomment .block-children>.ls-block:last-of-type::before  {
-      content: "⏱";
+    .ytcomment .block-children-container .flex:last-of-type {
+      font-size: 1.07em;
+    }
+
+    .ytcomment .block-children-container .flex:last-of-type::before {
+      content: "${logseq.settings.emoji}";
       width: 1em;
       position: absolute;
-      left: 20px;
+      left: 18px;
     }`
   logseq.provideStyle(cinOn);
-  // let numberArray = [1, 2, 3, 4, 5]
-  // for (const number in numberArray){
-  logseq.App.showMsg("Function has been run")
+  logseq.App.showMsg(`Toggled ${pluginName[1]}`)
   }
   
 
@@ -106,14 +115,15 @@ const main = async () => {
     }
   }, async (e) => { toggleUI() }); 
 
-  logseq.App.registerCommandPalette({
-    key: "cinematograph-s",
-    label: "Stop Video",
-    keybinding: {
-      mode: 'global',
-      binding: logseq.settings.keyStop
-    }
-  }, async (e) => { stopVideo() });
+  //Still doesn't work correctly
+  // logseq.App.registerCommandPalette({
+  //   key: "cinematograph-s",
+  //   label: "Stop Video",
+  //   keybinding: {
+  //     mode: 'global',
+  //     binding: logseq.settings.keyStop
+  //   }
+  // }, async (e) => { stopVideo() });
 }
 
 logseq.ready(main).catch(console.error);
