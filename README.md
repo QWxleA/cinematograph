@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/QWxleA/logseq-cinematograph">
+  <a href="https://github.com/QWxleA/cinematograph">
     <img src="images/icon.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -38,14 +38,14 @@
   <p align="center">
 Cinematograph or Kinematograph is an early term for several types of motion picture film mechanisms. A device by this name was invented and patented as the "Cinématographe Léon Bouly" by French inventor Léon Bouly on February 12, 1892. Bouly coined the term "cinematograph," from the Greek for <b>"writing in movement."</b> — [Cinematograph - Wikipedia](https://en.wikipedia.org/wiki/Cinematograph)
     <br />
-    <a href="https://github.com/QWxleA/logseq-cinematograph"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/QWxleA/cinematograph"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/QWxleA/logseq-cinematograph">View Demo</a>
+    <a href="https://github.com/QWxleA/cinematograph">View Demo</a>
     ·
-    <a href="https://github.com/QWxleA/logseq-cinematograph/issues">Report Bug</a>
+    <a href="https://github.com/QWxleA/cinematograph/issues">Report Bug</a>
     ·
-    <a href="https://github.com/QWxleA/logseq-cinematograph/issues">Request Feature</a>
+    <a href="https://github.com/QWxleA/cinematograph/issues">Request Feature</a>
   </p>
 </div>
 
@@ -136,7 +136,7 @@ All that is solved with this plugin. You can't see what you typed, it just disap
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/QWxleA/logseq-cinematograph/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/QWxleA/cinematograph/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -197,15 +197,15 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/logseq-cinematograph.svg?style=for-the-badge
-[contributors-url]: https://github.com/QWxleA/logseq-cinematograph/graphs/contributors
+[contributors-url]: https://github.com/QWxleA/cinematograph/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/logseq-cinematograph.svg?style=for-the-badge
-[forks-url]: https://github.com/QWxleA/logseq-cinematograph/network/members
+[forks-url]: https://github.com/QWxleA/cinematograph/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/logseq-cinematograph.svg?style=for-the-badge
-[stars-url]: https://github.com/QWxleA/logseq-cinematograph/stargazers
+[stars-url]: https://github.com/QWxleA/cinematograph/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/logseq-cinematograph.svg?style=for-the-badge
-[issues-url]: https://github.com/QWxleA/logseq-cinematograph/issues
+[issues-url]: https://github.com/QWxleA/cinematograph/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/logseq-cinematograph.svg?style=for-the-badge
-[license-url]: https://github.com/QWxleA/logseq-cinematograph/blob/master/LICENSE.txt
+[license-url]: https://github.com/QWxleA/cinematograph/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
