@@ -81,18 +81,11 @@ Cinematograph or Kinematograph is an early term for several types of motion pict
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Plugin Screen Shot](images/screenshot.gif)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Take notes from a Youtube video is easy enough, but gets annoying when you have too many. And second-guessing yourself also makes it slow going, at times.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+All that is solved with this plugin. You can't see what you typed, it just disappears until you're done. Just concentrate on your video, your notes will be there when you're finished. And you type right under the video, so you never scroll too far down.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -131,6 +124,11 @@ Use the `BLANK_README.md` to get started.
 - Go to **Plugin Settings**.
 - Select correct plugin.
 
+![configuration](images/configuration.png)
+
+- Set key-bindings
+- Set Youtube Video size
+- Set emoji
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -138,19 +136,9 @@ Use the `BLANK_README.md` to get started.
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
 See the [open issues](https://github.com/QWxleA/logseq-cinematograph/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -177,14 +165,12 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Alex Qwxlea - [@twitter_handle](https://twitter.com/QwxleaA) 
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/Qwxlea/cinematograph](https://github.com/Qwxlea/cinematograph)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
