@@ -30,13 +30,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/QWxleA/logseq-cinematograph">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Logseq Cinematograph</h3>
 
   <p align="center">
-Cinematograph or Kinematograph is an early term for several types of motion picture film mechanisms. A device by this name was invented and patented as the "Cinématographe Léon Bouly" by French inventor Léon Bouly on February 12, 1892. Bouly coined the term "cinematograph," from the Greek for **"writing in movement."** — [Cinematograph - Wikipedia](https://en.wikipedia.org/wiki/Cinematograph)
+Cinematograph or Kinematograph is an early term for several types of motion picture film mechanisms. A device by this name was invented and patented as the "Cinématographe Léon Bouly" by French inventor Léon Bouly on February 12, 1892. Bouly coined the term "cinematograph," from the Greek for <b>"writing in movement."</b> — [Cinematograph - Wikipedia](https://en.wikipedia.org/wiki/Cinematograph)
     <br />
     <a href="https://github.com/QWxleA/logseq-cinematograph"><strong>Explore the docs »</strong></a>
     <br />

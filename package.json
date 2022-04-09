@@ -1,6 +1,6 @@
 {
   "name": "logseq-cinematograph",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Easy Youtube note taking",
   "main": "dist/index.html",
   "targets": {
